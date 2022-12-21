@@ -2,4 +2,8 @@ Greeen
 Yellow 
 Purple 
 Violet 
-BLe
+BLue
+Red
+Magenta
+Gray 
+Black
